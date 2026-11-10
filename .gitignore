@@ -1,0 +1,28 @@
+# Build & temporary files
+bin/
+obj/
+*.o
+*.exe
+build/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
+
